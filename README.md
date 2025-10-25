@@ -56,7 +56,7 @@ Comet不是那种简单套个Chrome内核就拿出来卖的浏览器。它是专
 
 ### 第一步：下载浏览器
 
-1. 访问邀请链接：https://pplx.ai/hoangmaitr13463
+1. 访问邀请链接：[https://pplx.ai/](https://pplx.ai/ixkwood69619635)
 2. 点击"Claim invitation"（接受邀请）
 3. 输入邮箱，查收验证码并填写
 4. 浏览器会自动开始下载（大约80-120MB）
