@@ -40,7 +40,6 @@ Perplexity Pro集成了Google最新的Nano Banana图像模型（也就是Gemini 
 
 ## Comet浏览器：不只是个壳
 
-![Comet浏览器主界面](image/4535478464431.webp)
 
 Comet不是那种简单套个Chrome内核就拿出来卖的浏览器。它是专门为AI交互设计的，有几个实用功能：
 
